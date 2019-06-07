@@ -43,8 +43,10 @@ a:hover{
 }
 
 #showcase{
+  background: #6bafbe;
   background-image: url('../src/images/Contact.png');
-  background-size: 100%;
+  background-size: 60%;
+  background-repeat: no-repeat;
   background-position: center;
   min-height: 220px;
   margin-bottom: 30px;
